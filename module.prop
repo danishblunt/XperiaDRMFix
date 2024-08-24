@@ -1,0 +1,6 @@
+id=XperiaDRMFix
+name=XperiaDRMFix
+version=v1.0
+versionCode=1
+author=Danishblunt
+description=Replaces DRM with dummy to force L3
