@@ -24,7 +24,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    SonyXperia DRM Patch       "
+  ui_print "   Danishblunt's DRM Patch     "
   ui_print "                               "
   ui_print "*******************************"
 }
